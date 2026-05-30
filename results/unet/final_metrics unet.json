@@ -1,0 +1,17 @@
+{
+  "model": "AttentionResidualUNet",
+  "best_epoch": 30,
+  "best_val_dice_training_threshold_0_5": 0.5686362016972878,
+  "best_threshold": 0.4,
+  "val_dice_mean": 0.5716239115317091,
+  "val_iou_mean": 0.4163522795378733,
+  "val_dice_Fish": 0.4854953128228138,
+  "val_iou_Fish": 0.33463405343376157,
+  "val_dice_Flower": 0.6495816998130454,
+  "val_iou_Flower": 0.4981223366779716,
+  "val_dice_Gravel": 0.5399365690436294,
+  "val_iou_Gravel": 0.3838681040479125,
+  "val_dice_Sugar": 0.6114820690034962,
+  "val_iou_Sugar": 0.4487846258947318,
+  "val_loss": 0.525233655095958
+}
