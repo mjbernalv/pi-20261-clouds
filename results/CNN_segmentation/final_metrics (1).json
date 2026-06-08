@@ -1,0 +1,17 @@
+{
+  "model": "CNNSegmenter",
+  "best_epoch": 30,
+  "best_val_dice_training_threshold_0_5": 0.5548892104797226,
+  "best_threshold": 0.4,
+  "val_dice_mean": 0.557268968374609,
+  "val_iou_mean": 0.4023407977476394,
+  "val_dice_Fish": 0.46180617862897416,
+  "val_iou_Fish": 0.31282900284520615,
+  "val_dice_Flower": 0.6417110720984707,
+  "val_iou_Flower": 0.48925240418253985,
+  "val_dice_Gravel": 0.5253649693277243,
+  "val_iou_Gravel": 0.3698368591906355,
+  "val_dice_Sugar": 0.6001936558553641,
+  "val_iou_Sugar": 0.4374449179648495,
+  "val_loss": 0.5429369114714561
+}
