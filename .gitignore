@@ -224,3 +224,4 @@ data/
 outputs/*.keras
 *.pkl
 models/
+!models/unet/resultados_modelo_unet.pkl
