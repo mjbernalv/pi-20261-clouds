@@ -2,3 +2,7 @@ jupyter
 numpy
 pandas
 matplotlib
+boto3
+python-dotenv
+kaggle
+tqdm
