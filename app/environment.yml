@@ -1,0 +1,16 @@
+name: clouds-app
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch
+  - torchvision
+  - pip:
+      - streamlit>=1.35.0
+      - pillow>=10.4.0
+      - numpy>=1.26,<2.0
+      - matplotlib>=3.9.0
+      - python-dotenv>=1.0.0
+      - boto3>=1.34.0

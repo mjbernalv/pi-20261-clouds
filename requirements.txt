@@ -1,8 +1,28 @@
-jupyter
+# Data & ML
 numpy
 pandas
+scikit-learn
 matplotlib
+seaborn
+
+# Deep learning
+torch
+tensorflow
+keras
+albumentations
+
+# Computer vision
+opencv-python
+Pillow
+
+# AWS
 boto3
-python-dotenv
 kaggle
+
+# App
+streamlit
+
+# Utilities
+jupyter
+python-dotenv
 tqdm
