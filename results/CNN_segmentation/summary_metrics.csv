@@ -1,0 +1,2 @@
+model,best_epoch,best_threshold,val_dice_mean,val_iou_mean,val_dice_Fish,val_dice_Flower,val_dice_Gravel,val_dice_Sugar,val_iou_Fish,val_iou_Flower,val_iou_Gravel,val_iou_Sugar,val_loss
+CNNSegmenter,30,0.4,0.557269,0.402341,0.641806,0.525365,0.600194,0.312829,0.489252,0.369887,0.437445,0.452937,0.542927
