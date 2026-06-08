@@ -1,0 +1,17 @@
+{
+  "model": "TransformerSegmenter",
+  "best_epoch": 16,
+  "best_val_dice_training_threshold_0_5": 0.35435497236820007,
+  "best_threshold": 0.3,
+  "val_dice_mean": 0.37780474351464416,
+  "val_iou_mean": 0.25530472979378355,
+  "val_dice_Fish": 0.3202570692373862,
+  "val_iou_Fish": 0.20741584867275184,
+  "val_dice_Flower": 0.4038535879203015,
+  "val_iou_Flower": 0.28928509345631587,
+  "val_dice_Gravel": 0.3660989041598007,
+  "val_iou_Gravel": 0.244600263786691,
+  "val_dice_Sugar": 0.4210094133351822,
+  "val_iou_Sugar": 0.27991771279573374,
+  "val_loss": 0.7111745678263602
+}

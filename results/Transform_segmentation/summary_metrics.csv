@@ -1,0 +1,2 @@
+model,best_epoch,best_val_dice_training_threshold_0_5,best_threshold,val_dice_mean,val_iou_mean,val_dice_Fish,val_iou_Fish,val_dice_Flower,val_iou_Flower,val_dice_Gravel,val_iou_Gravel,val_dice_Sugar,val_iou_Sugar,val_loss
+TransformerSegmenter,16,0.35435497236820007,0.3,0.37780474351464416,0.25530472979378355,0.3202570692373862,0.20741584867275184,0.4038535879203015,0.28928509345631587,0.3660989041598007,0.244600263786691,0.4210094133351822,0.27991771279573374,0.7111745678263602
